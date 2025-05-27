@@ -1,4 +1,4 @@
-#Oiii! sou a Julia Padilha
+## Oiii! sou a Julia Padilha
 
 🎓 Aluna de Desenvolvimento de Sistemas no SENAI e SESI 
 
